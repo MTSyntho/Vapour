@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="960" height="720" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <clipPath id="p.0">
+  <path clip-rule="nonzero" d="m0,0l960,0l0,720l-960,0l0,-720z" id="svg_1"/>
+ </clipPath>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#p.0)" id="svg_2">
+   <path d="m86,16l960,0l0,720l-960,0l0,-720z" fill="#000000" fill-opacity="0" fill-rule="evenodd" id="svg_3"/>
+   <path d="m462.82,160.3c46,47 74.07,121.53 85.81,193.55c7.48,45.84 24.31,94.26 13.84,139.22c-7.45,32.01 -39.39,54.96 -66.43,57.72c-29.33,3 -73.58,-36.29 -66.44,-71.3c6.64,-32.6 33.5,-54.02 44.29,-84.9c24.74,-70.81 36.11,-176.42 -8.3,-230.9" fill="#000000" fill-opacity="0" fill-rule="evenodd" id="svg_4"/>
+   <path d="m462.82,160.3c46,47 74.07,121.53 85.81,193.55c7.48,45.84 24.31,94.26 13.84,139.22c-7.45,32.01 -39.39,54.96 -66.43,57.72c-29.33,3 -73.58,-36.29 -66.44,-71.3c6.64,-32.6 33.5,-54.02 44.29,-84.9c24.74,-70.81 36.11,-176.42 -8.3,-230.9" fill-rule="evenodd" id="svg_5" stroke="#000000" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+ </g>
+</svg>
